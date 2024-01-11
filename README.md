@@ -1,3 +1,3 @@
 ## Description
 
-Trying to learn Next.JS before learning React was not the best of ideas... I am going to take what I have and continue in another repository built around React.
+Got a bit ahead of myself by trying to learn Next.js before React... I will return to this once I have completed my portfolio using React.
